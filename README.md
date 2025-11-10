@@ -1,7 +1,5 @@
 <!-- 🧠 Atta Ur Rehman | Building LLMs with a Heartbeat | Max-Animation GitHub Edition -->
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman+👋;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat+💡;Turning+Chatbots+into+Thinking+Agents+🤖" alt="Typing SVG" />
 </p>
@@ -28,13 +26,13 @@
 
 > *"The future of AI isn’t chat — it’s collaboration."*
 
-I’m **Atta Ur Rehman**, an **AI Engineer** at Askari Bank building intelligent systems that reason, automate, and evolve.  
+I’m **Atta Ur Rehman**, an **AI Engineer** building intelligent systems that reason, automate, and evolve.  
 I bring together **RAG**, **DSPy**, and **AutoML** to craft *agentic* LLM pipelines — where each model thinks like a digital colleague.  
 
 💡 **Focus areas**
 - 🧩 Retrieval-Augmented Generation (RAG 2.0)  
 - 🤖 Agentic AI systems (LLMs + MCP servers)  
-- ⚙️ Automation pipelines for digital banking  
+- ⚙️ Automation pipelines
 - 🧠 Fine-tuning and evaluation of LLMs  
 
 ---
@@ -61,19 +59,6 @@ I bring together **RAG**, **DSPy**, and **AutoML** to craft *agentic* LLM pipeli
 
 ---
 
-### 📈 Live GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAtta56&theme=react-dark&bg_color=0d1117&hide_border=true&line=6C63FF&color=36BCF7" width="100%"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAtta56&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IAtta56&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAtta56&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
----
-
 ### 🏆 Certifications & Education  
 🎓 **B.Sc. Artificial Intelligence**, University of Haripur (2024)  
 📜 **Data Analyst Certification**, Institute of Emerging Careers (2025)  
@@ -82,23 +67,11 @@ I bring together **RAG**, **DSPy**, and **AutoML** to craft *agentic* LLM pipeli
 
 ---
 
-### 💬 Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/iamatta"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://x.com/atta56"><img src="https://img.shields.io/badge/X-(Twitter)-black?style=for-the-badge&logo=x" /></a>
-  <a href="mailto:attiqureshi56@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IAtta56&theme=algolia&margin-w=10&no-frame=true" />
 </p>
 
 ---
-
-### 💡 Motto  
 
 <p align="center">
   <em>“Building LLMs with a Heartbeat — where intelligence meets empathy.”</em><br><br>
