@@ -1,4 +1,4 @@
-<!-- 🧠 Atta Ur Rehman | Building LLMs with a Heartbeat | Max-Animation GitHub Edition -->
+<!-- 🧠 Atta Ur Rehman | Building LLMs with a Heartbeat | Minimal GitHub Edition -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman+👋;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat+💡;Turning+Chatbots+into+Thinking+Agents+🤖" alt="Typing SVG" />
@@ -11,12 +11,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/iamatta">
     <img src="https://img.shields.io/badge/LinkedIn-Atta%20Ur%20Rehman-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/IAtta56">
-    <img src="https://img.shields.io/badge/GitHub-IAtta56-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:attiqureshi56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-attiqureshi56%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -40,11 +34,7 @@ I bring together **RAG**, **DSPy**, and **AutoML** to craft *agentic* LLM pipeli
 ### ⚙️ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,postgresql,git,github,vscode" /><br>
-  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSPy-%236C63FF.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoML-%2300C9FF.svg?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,postgresql,git" />
 </p>
 
 ---
@@ -64,12 +54,6 @@ I bring together **RAG**, **DSPy**, and **AutoML** to craft *agentic* LLM pipeli
 📜 **Data Analyst Certification**, Institute of Emerging Careers (2025)  
 🧠 *Foundations: Data, Data, Everywhere* — Google  
 💡 *ChatGPT Prompt Engineering for Developers* — DeepLearning.AI  
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IAtta56&theme=algolia&margin-w=10&no-frame=true" />
-</p>
 
 ---
 
