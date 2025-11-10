@@ -1,7 +1,16 @@
-<!-- 👋 Atta Ur Rehman | Building LLMs with a Heartbeat -->
+<!-- ✨ Atta Ur Rehman | Building LLMs with a Heartbeat | Ultra Rare Edition -->
 
-<h1 align="center">Hey there 👋, I'm Atta Ur Rehman</h1>
-<h3 align="center">🚀 AI Engineer | Building LLMs with a Heartbeat 💡</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=700&color=00C9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman+👋;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat+💡;Turning+Chatbots+into+Thinking+Agents+🤖" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,100:6C63FF&height=180&text=Building%20LLMs%20with%20a%20Heartbeat&fontColor=ffffff&fontSize=35&animation=fadeIn" />
+</p>
+
+---
+
+<h2 align="center">🧠 AI Engineer | Machine Learning | Intelligent Automation | Agentic Systems</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamatta">
@@ -17,76 +26,74 @@
 
 ---
 
-### 🧠 About Me  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer+from+Pakistan;Building+LLMs+with+a+Heartbeat;Pushing+AI+toward+agentic+reasoning;Let's+build+intelligent+automation+💡)](https://git.io/typing-svg)
+### 🚀 About Me
 
-🎯 Passionate about bridging **LLM research and real-world automation**.  
-I specialize in building systems that **think, reason, and act** — transforming static chatbots into intelligent digital colleagues.  
+> *"The future of AI isn’t chat — it’s collaboration."*
 
-💬 **What I work on:**
-- 🧩 *Retrieval-Augmented Generation (RAG)* systems with reasoning layers  
-- 🤖 *Agentic AI chatbots* powered by LLMs and MCP architectures  
-- ⚙️ *Automation & process intelligence* for digital banking  
-- 🧠 *Fine-tuning LLMs* for domain-specific expertise  
-- 📊 *Data-driven decision systems* with Python, Power BI & Streamlit  
+I’m **Atta Ur Rehman**, an **AI Engineer** at Askari Bank who’s passionate about giving Large Language Models a *heartbeat* — intelligence that feels alive, aware, and useful.  
+From building RAG systems that *reason*, to automating banking pipelines that *learn*, I push models beyond outputs — toward *understanding.*
+
+- 🤖 Building **Agentic RAG systems** with reasoning and memory  
+- 🧩 Designing **LLM orchestration frameworks** using MCP servers  
+- ⚙️ Automating **data + decision pipelines** for enterprise-scale systems  
+- 🔬 Exploring **DSPy**, **AutoML**, and **RLHF 2.0** for adaptive learning  
 
 ---
 
-### 🧰 Tech Stack  
+### ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,postgresql,git,github,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,postgresql,vscode,git,github" /><br>
   <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/DSPy-%236C63FF.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoML-%2300C9FF.svg?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+### 🌌 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🧩 [**RAG 2.0 Chatbot**](https://github.com/IAtta56/rag-2.0) | Next-gen RAG + DSPy + AutoML pipeline with dynamic reasoning and adaptive context fusion. |
-| 📊 [**Banking AI Dashboard**](https://github.com/IAtta56/banking-dashboard) | Streamlit dashboard merging customer intelligence and LLM-driven insights for digital banking. |
-| 🤖 [**LLM Fine-Tuner**](https://github.com/IAtta56/llm-finetuner) | End-to-end fine-tuning framework with LoRA adapters and evaluation metrics for domain-specific models. |
-
----
-
-### 📈 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAtta56&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAtta56&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAtta56&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</p>
+| 🚀 Project | 🔍 Description |
+|-------------|----------------|
+| 🧩 [**RAG 2.0 Chatbot**](https://github.com/IAtta56/rag-2.0) | Reinventing retrieval-augmented reasoning using DSPy and dynamic context routing. |
+| 💹 [**Banking AI Dashboard**](https://github.com/IAtta56/banking-dashboard) | Streamlit-powered intelligence dashboard integrating AI insights for real-time decisioning. |
+| 🧠 [**LLM Fine-Tuner Pro**](https://github.com/IAtta56/llm-finetuner) | LoRA + RLHF fine-tuning framework optimized for domain-specialized LLMs. |
 
 ---
 
-### 🏆 Achievements & Certifications  
-- 🎓 **B.Sc. Artificial Intelligence**, University of Haripur (2024)  
-- 📜 **Data Analyst Certification**, Institute of Emerging Careers (2025)  
-- 🧠 *Foundations: Data, Data, Everywhere* — Google  
-- 💡 *ChatGPT Prompt Engineering for Developers* — DeepLearning.AI  
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAtta56&theme=tokyonight&hide_border=true&background=00000000" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IAtta56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAtta56&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="400" />
+</div>
 
 ---
 
-### 🌟 Current Focus  
-> “Turning static chatbots into reasoning agents that act like digital colleagues.”  
+### 🏆 Certifications & Education
 
-🔭 Working on:  
-- Upgrading **RAG 1.0 → RAG 2.0** using DSPy & AutoML  
-- Experimenting with **RLHF 2.0** for fine-tuned alignment  
-- Developing **LLM evaluation frameworks** for accuracy & reasoning depth  
+🎓 **B.Sc. Artificial Intelligence** — University of Haripur (2024)  
+📜 **Data Analyst Certification** — Institute of Emerging Careers (2025)  
+🧠 *Foundations: Data, Data, Everywhere* — Google  
+💡 *ChatGPT Prompt Engineering for Developers* — DeepLearning.AI  
 
 ---
 
-### 💬 Let’s Connect  
-📫 Reach out for collaborations, research ideas, or cool AI projects!  
+### 🌍 Current Focus
+
+> “Upgrading LLMs from knowledge recall → dynamic reasoning.”  
+
+🔭 Current Experiments:
+- RAG + DSPy + AutoML integration (RAG 2.0)
+- RLHF 2.0 for adaptive alignment  
+- Multi-agent orchestration using MCP servers  
+
+---
+
+### 💬 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/iamatta"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://x.com/atta56"><img src="https://img.shields.io/badge/X-(Twitter)-black?style=for-the-badge&logo=x" /></a>
@@ -95,9 +102,21 @@ I specialize in building systems that **think, reason, and act** — transformin
 
 ---
 
-### 🧡 Motto  
-> *Building LLMs with a Heartbeat — where intelligence meets empathy.*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IAtta56&theme=onestar&margin-w=10&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 💡 Motto  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer" />
+  <em>“Building LLMs with a Heartbeat — where intelligence meets empathy.”</em><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+that+Thinks...;AI+that+Feels...;AI+that+Creates+Impact." alt="Typing Effect" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:6C63FF&section=footer" />
 </p>
