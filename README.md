@@ -1,8 +1,6 @@
 <!-- 🧠 Atta Ur Rehman | Building LLMs with a Heartbeat | Max-Animation GitHub Edition -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RmZTFlZjhhZTZmZGU2ZDFmYzc1MTRkMWM0OTI0ZmY0OWU1NzA1NyZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="900" height="250" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman+👋;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat+💡;Turning+Chatbots+into+Thinking+Agents+🤖" alt="Typing SVG" />
