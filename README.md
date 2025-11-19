@@ -1,12 +1,12 @@
-<!-- 🧠 Atta Ur Rehman | Building LLMs with a Heartbeat | Minimal GitHub Edition -->
+<!--  Atta Ur Rehman | Building LLMs with a Heartbeat | Minimal GitHub Edition -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman+👋;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat+💡;Turning+Chatbots+into+Thinking+Agents+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman+👋;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat;Turning+Chatbots+into+Thinking+Agents" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">🚀 AI Engineer | Machine Learning | Intelligent Automation | Agentic Systems</h2>
+<h2 align="center"> AI Engineer | Machine Learning | Intelligent Automation | Agentic Systems</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamatta">
@@ -16,22 +16,22 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 > *"The future of AI isn’t chat — it’s collaboration."*
 
 I’m **Atta Ur Rehman**, an **AI Engineer** building intelligent systems that reason, automate, and evolve.  
 I bring together **RAG**, **DSPy**, and **AutoML** to craft *agentic* LLM pipelines — where each model thinks like a digital colleague.  
 
-💡 **Focus areas**
-- 🧩 Retrieval-Augmented Generation (RAG 2.0)  
-- 🤖 Agentic AI systems (LLMs + MCP servers)  
-- ⚙️ Automation pipelines
-- 🧠 Fine-tuning and evaluation of LLMs  
+ **Focus areas**
+-  Retrieval-Augmented Generation (RAG 2.0)  
+-  Agentic AI systems (LLMs + MCP servers)  
+-  Automation pipelines
+-  Fine-tuning and evaluation of LLMs  
 
 ---
 
-### ⚙️ Tech Arsenal  
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,streamlit,postgresql,git" />
@@ -41,19 +41,19 @@ I bring together **RAG**, **DSPy**, and **AutoML** to craft *agentic* LLM pipeli
 
 ### 🌌 Featured Projects
 
-| 🔥 Project | ✨ Description |
+|  Project |  Description |
 |-------------|----------------|
-| 🧩 [**RAG 2.0 Chatbot**](https://github.com/IAtta56/rag-2.0) | Reinventing retrieval-augmented reasoning with DSPy + dynamic context routing. |
-| 💹 [**Banking AI Dashboard**](https://github.com/IAtta56/banking-dashboard) | Streamlit dashboard merging customer intelligence and LLM insights. |
-| 🧠 [**LLM Fine-Tuner Pro**](https://github.com/IAtta56/llm-finetuner) | LoRA + RLHF 2.0 fine-tuning pipeline for domain-specialized models. |
+|  [**RAG Chatbot**](https://github.com/IAtta56/RAG-Chatbot) | Reinventing retrieval-augmented reasoning with DSPy + dynamic context routing. |
+|  [**Resume-Line-Checker**](https://github.com/IAtta56/Resume-Line-Checker) | Resume line cheaker to make resume effective |
+|  [**Heart-Disease-Analysis-And-Prediction**](https://github.com/IAtta56/Heart-Disease-Analysis-And-Prediction) | Heart patients analysis and prediction of disease.|
 
 ---
 
-### 🏆 Certifications & Education  
-🎓 **B.Sc. Artificial Intelligence**, University of Haripur (2024)  
-📜 **Data Analyst Certification**, Institute of Emerging Careers (2025)  
-🧠 *Foundations: Data, Data, Everywhere* — Google  
-💡 *ChatGPT Prompt Engineering for Developers* — DeepLearning.AI  
+###  Certifications & Education  
+ **B.Sc. Artificial Intelligence**, University of Haripur (2024)  
+ **Data Analyst Certification**, Institute of Emerging Careers (2025)  
+ *Foundations: Data, Data, Everywhere* — Google  
+ *ChatGPT Prompt Engineering for Developers* — DeepLearning.AI  
 
 ---
 
