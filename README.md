@@ -1,7 +1,7 @@
 <!--  Atta Ur Rehman | Building LLMs with a Heartbeat | Minimal GitHub Edition -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman+👋;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat;Turning+Chatbots+into+Thinking+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Atta+Ur+Rehman;AI+Engineer+%7C+LLM+Architect+%7C+RAG+Specialist;Building+LLMs+with+a+Heartbeat;Turning+Chatbots+into+Thinking+Agents" alt="Typing SVG" />
 </p>
 
 ---
