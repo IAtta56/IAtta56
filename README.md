@@ -14,7 +14,7 @@
 
 <br/>
 
-### `> whoami`
+## 👤 About Me
 
 I'm an **AI Engineer at [Askari Bank](https://www.askaribank.com.pk/)** — one of Pakistan's largest banks.
 
@@ -28,7 +28,7 @@ I don't build demos. I build systems that get deployed.
 
 <br/>
 
-### `> cat production_systems.log`
+## ⚡ Production Systems
 
 > *All projects are proprietary. No source code or architecture details shared.*
 
@@ -90,7 +90,7 @@ I don't build demos. I build systems that get deployed.
 
 <br/>
 
-### `> echo $METRICS`
+## 📊 Impact
 
 ```
   Query Resolution     ↑ 40%          Retrieval Accuracy     93.4%
@@ -105,7 +105,7 @@ I don't build demos. I build systems that get deployed.
 
 <br/>
 
-### `> cat tech_stack.yaml`
+## 🛠️ Tech Stack
 
 ```yaml
 ai_core:
@@ -138,11 +138,11 @@ data_science:    [ Pandas, NumPy, Power BI, SQL ]
 
 <br/>
 
-### `> cat education.txt`
+## 🎓 Education
 
 ```
-🎓  B.S. Artificial Intelligence     University of Haripur       2024
-📜  Data Analytics Bootcamp          Institute of Emerging Careers  2025
+🎓  B.S. Artificial Intelligence     University of Haripur            2024
+📜  Data Analytics Bootcamp          Institute of Emerging Careers    2025
 ```
 
 <br/>
@@ -151,7 +151,7 @@ data_science:    [ Pandas, NumPy, Power BI, SQL ]
 
 <br/>
 
-### `> contact --connect`
+## 📬 Connect
 
 <div align="center">
 
