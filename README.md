@@ -92,12 +92,16 @@ I don't build demos. I build systems that get deployed.
 
 ## 📊 Impact
 
-```
-  Query Resolution     ↑ 40%          Retrieval Accuracy     93.4%
-  Voice Latency        < 200ms        Document Latency       < 1ms
-  Compliance Reqs      1,285+         Languages Supported    4
-  Knowledge Domains    4              External API Calls     0
-```
+<div align="center">
+
+| Metric | Result | Metric | Result |
+|:--|:--|:--|:--|
+| 📈 Query Resolution | **↑ 40%** | 🎯 Retrieval Accuracy | **93.4%** |
+| ⚡ Voice Latency | **< 200ms** | 🔍 Document Latency | **< 1ms** |
+| 📚 Compliance Reqs | **1,285+** | 🌍 Languages Supported | **4** |
+| 🧠 Knowledge Domains | **4** | 🔒 External API Calls | **0** |
+
+</div>
 
 <br/>
 
@@ -107,30 +111,56 @@ I don't build demos. I build systems that get deployed.
 
 ## 🛠️ Tech Stack
 
-```yaml
-ai_core:
-  frameworks:    [ LangChain, CrewAI ]
-  llms:          [ Ollama, Llama 3.1 ]
-  fine_tuning:   [ LoRA, QLoRA ]
-  techniques:    [ Agentic RAG, Multi-Agent Orchestration, Prompt Engineering ]
+<div align="center">
 
-vector_search:   [ FAISS, ChromaDB, Qdrant ]
+**AI & LLMs**
 
-voice_ai:
-  stt:           Whisper
-  tts:           Edge TTS
-  platform:      Vapi.ai
-  latency:       < 200ms
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-ff6b6b?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/LoRA/QLoRA-6c5ce7?style=for-the-badge&logoColor=white" />
 
-ml:              [ PyTorch, TensorFlow, Scikit-learn ]
+**Vector Search & Retrieval**
 
-backend:         [ FastAPI, SQLAlchemy, MySQL, REST APIs ]
-frontend:        [ SvelteKit, Streamlit, TailwindCSS ]
-infrastructure:  [ Docker, Nginx, N8n, Zapier ]
-document_ai:     [ Docling, Tika ]
+<img src="https://img.shields.io/badge/FAISS-0abde3?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-ff6b6b?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-dc382c?style=for-the-badge&logo=qdrant&logoColor=white" />
 
-data_science:    [ Pandas, NumPy, Power BI, SQL ]
-```
+**Voice AI**
+
+<img src="https://img.shields.io/badge/Whisper_STT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge_TTS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Vapi.ai-a78bfa?style=for-the-badge&logoColor=white" />
+
+**ML & Data Science**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+**Backend & Frontend**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Infrastructure & Tools**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Docling-6c5ce7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Tika-222222?style=for-the-badge&logoColor=white" />
+
+</div>
 
 <br/>
 
@@ -140,10 +170,10 @@ data_science:    [ Pandas, NumPy, Power BI, SQL ]
 
 ## 🎓 Education
 
-```
-🎓  B.S. Artificial Intelligence     University of Haripur            2024
-📜  Data Analytics Bootcamp          Institute of Emerging Careers    2025
-```
+| | Degree | Institution | Year |
+|:--|:--|:--|:--|
+| 🎓 | **B.S. Artificial Intelligence** | University of Haripur | 2024 |
+| 📜 | **Data Analytics Bootcamp** | Institute of Emerging Careers | 2025 |
 
 <br/>
 
@@ -166,11 +196,6 @@ data_science:    [ Pandas, NumPy, Power BI, SQL ]
 <a href="https://wa.me/923161533723">
   <img src="https://img.shields.io/badge/+92--316--153--3723-a78bfa?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=attaurrehman&label=visitors&color=6c5ce7&style=flat-square" />
-
 </div>
 
 <br/>
