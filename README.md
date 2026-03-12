@@ -189,7 +189,7 @@ I don't build demos. I build systems that get deployed.
   <img src="https://img.shields.io/badge/attiqureshi56@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/">
+<a href="https://www.linkedin.com/in/iamatta/">
   <img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
