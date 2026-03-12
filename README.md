@@ -1,250 +1,367 @@
 <div align="center">
 
-<!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:6366f1,100:06b6d4&height=220&section=header&text=Atta%20Ur%20Rehman&fontSize=52&fontColor=f8fafc&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems%20That%20Ship&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🔥 ANIMATED HEADER                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6b6b,25:ee5a24,50:6c5ce7,75:0abde3,100:10ac84&height=300&section=header&text=ATTA%20UR%20REHMAN&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Production%20AI&descSize=22&descAlignY=55&descColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ⌨️ ANIMATED TYPING                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<!-- TAGLINE -->
-```
-🧠 I don't just build AI models — I build AI systems that run in production.
-```
-
-<br/>
-
-<!-- QUICK STATS -->
-<img src="https://img.shields.io/badge/Focus-Agentic_AI_&_Multi--Agent_Systems-6366f1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Domain-Enterprise_Banking_AI-06b6d4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Infra-Local_LLMs_|_Zero_API_Dependency-10b981?style=for-the-badge&logoColor=white" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=%F0%9F%A7%A0+Building+AI+Systems+That+Run+in+Production;%F0%9F%8F%A6+Enterprise+AI+%40+Askari+Bank+%7C+Zero+API+Dependencies;%F0%9F%94%92+Privacy-First+%7C+Local+LLMs+%7C+Multi-Agent+Orchestration" alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<!-- ABOUT -->
-<table>
-<tr>
-<td width="100%">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏷️ ANIMATED BADGES                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-**AI Engineer at Askari Bank** — designing and deploying production-grade Agentic RAG, multi-agent orchestration, and real-time conversational AI for one of Pakistan's largest banks. Every system I build runs on **fully local infrastructure** with zero third-party API dependencies — because in banking, data doesn't leave the building.
+<img src="https://img.shields.io/badge/🔥_FOCUS-Agentic_AI_&_Multi--Agent_Systems-ff6b6b?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/🏦_DOMAIN-Enterprise_Banking_AI-6c5ce7?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/🔒_INFRA-Local_LLMs_|_Zero_External_APIs-10ac84?style=for-the-badge&labelColor=1a1a2e" />
 
-I specialize in the hard part: making AI work under **real constraints** — compliance, latency, privacy, and scale.
+<br/><br/>
 
-</td>
-</tr>
-</table>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📊 ANIMATED STATS CARDS                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=attaurrehman&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c5ce7&icon_color=ff6b6b&text_color=c9d1d9&ring_color=6c5ce7" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=attaurrehman&theme=radical&hide_border=true&background=0d1117&stroke=6c5ce7&ring=ff6b6b&fire=ff6b6b&currStreakLabel=6c5ce7&sideLabels=6c5ce7&dates=555555" width="49%" />
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🧬 ANIMATED DIVIDER                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ⚡ What I'm Building Right Now
-
-> *All projects are proprietary production systems at Askari Bank. Architecture details shared; source code is confidential.*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-### 🏦 Askari Buddy — Enterprise Multi-Domain Banking Assistant
-**`Launching on Askari Bank's Mobile App`** &nbsp; `Production` &nbsp; `Multi-Agent` &nbsp; `Voice-Enabled` &nbsp; `Multi-Lingual`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; About Me
 
-The most comprehensive AI assistant in Pakistani banking — a multi-domain chatbot serving **Islamic Banking, Conventional Banking, Security Operations, and Mobile App Support** through a single intelligent interface.
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280">
 
-<table>
-<tr>
-<td width="50%">
+```yaml
+name: Atta Ur Rehman
+role: AI Engineer @ Askari Bank
+location: Pakistan 🇵🇰
 
-**🏗️ Architecture**
-- **Multi-Domain Orchestrator** with intent classification routing to 4 specialized RAG pipelines
-- **DomainClassifierAgent** for automatic query routing across Islamic, Conventional, SOC, and App domains
-- **Qdrant** vector store with domain-filtered retrieval on a unified collection
-- End-to-end **voice pipeline**: Whisper STT → LLM → Edge TTS
-- **Multi-lingual** support: English, Urdu, Pashto, Punjabi
+mission: >
+  Building production-grade intelligent systems
+  for enterprise banking — fully local, fully private,
+  fully operational.
 
-</td>
-<td width="50%">
+current_work:
+  - 🏦 Multi-domain AI assistant launching on bank's mobile app
+  - 🤖 Multi-agent orchestration for banking operations
+  - 🎙️ Real-time voice AI with <200ms latency
+  - 📊 Generative BI platform for non-technical users
 
-**🔧 Stack**
-- **Backend:** FastAPI + LangChain + SQLAlchemy + MySQL
-- **Frontend:** SvelteKit + TailwindCSS
-- **AI:** Ollama (Llama 3.1) + BGE-M3 1024D Embeddings
-- **Vector DB:** Qdrant (domain-filtered single collection)
-- **Voice:** Whisper STT + Edge TTS
-- **Infra:** Docker + Nginx + Supervisor + uv
-- **Document Processing:** Tika + Docling
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>📐 <b>System Architecture (Click to expand)</b></summary>
-<br/>
-
-```
-Browser → Apache Middleware → Nginx Gateway (SSL) → Reverse Proxy :8005
-    └── Askari Buddy Container :8000
-          ├── Nginx (API prefix routing)
-          └── FastAPI :8181
-                ├── MultiDomainOrchestrator
-                │     ├── DomainClassifierAgent → Intent Routing
-                │     ├── IslamicPipeline       → Shariah-compliant banking RAG
-                │     ├── ConventionalPipeline  → Conventional banking RAG
-                │     ├── SOCPipeline           → Security operations RAG
-                │     └── AppPipeline           → Mobile app support RAG
-                ├── Qdrant (askari_buddy collection, domain-filtered)
-                ├── Whisper STT ↔ Edge TTS (Voice Pipeline)
-                └── MySQL (Users, Conversations, Audit Logs)
+superpower: >
+  Making AI work under real constraints —
+  compliance, latency, privacy, and scale.
+  No external APIs. No excuses.
 ```
 
-</details>
+<br clear="both"/>
 
-<details>
-<summary>🔑 <b>Key Features</b></summary>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br/>
 
-- **JWT Authentication** (HS256) with admin approval workflow, access/refresh token rotation
-- **Admin Panel** — User management, FAQ CRUD, cache operations, KB reindexing, audit logs
-- **Streaming SSE** chat responses with conversation history persistence
-- **Feedback system** — Thumbs up/down on every response for continuous improvement
-- **100% local** — No data leaves bank infrastructure. Ever.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Production Systems I've Built
 
-</details>
-
----
-
-### 🕌 Islamic Banking Agentic Bot
-**`Production`** &nbsp; `Multi-Agent Orchestration` &nbsp; `Agentic RAG`
-
-<table>
-<tr>
-<td>
-
-- Orchestrator routes intents to **3 specialized sub-agents**: Document Search, FAQ, and Profit Rates
-- **40% improvement** in query resolution efficiency over keyword-based search
-- Fully local: **Llama 3.1 + FAISS** — 100% data privacy, zero third-party API calls
-- Designed for Shariah-compliance teams who need fast, accurate answers from dense Islamic finance documentation
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔒 Information Security BOT — Intelligent Document Analyzer
-**`Production`** &nbsp; `Compliance AI` &nbsp; `High-Accuracy Retrieval`
-
-<table>
-<tr>
-<td>
-
-- Processes **1,285+ compliance requirements** across regulatory frameworks
-- **93.4% retrieval accuracy** — achieved by preserving table structures in complex PDFs via **Docling**
-- **Sub-1ms query latency** powered by ChromaDB for enterprise-speed document auditing
-- Used by IT security teams for real-time compliance verification
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎙️ Real-Time Conversational Voice Agent
-**`Production`** &nbsp; `Voice AI` &nbsp; `Low-Latency Pipeline`
-
-<table>
-<tr>
-<td>
-
-- End-to-end **STT → LLM → TTS pipeline** with **< 200ms** total response time
-- Dynamic tone and prosody adjustment for natural-sounding conversations
-- Designed for banking customers who need hands-free, conversational interactions
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 DataChat — Generative Business Intelligence
-**`Production`** &nbsp; `Natural Language Analytics` &nbsp; `Auto-Insight Engine`
-
-<table>
-<tr>
-<td>
-
-- Natural-language analytics platform: query CSV, Excel, and PDF data conversationally
-- **Automated Insight Engine** generates charts, KPI summaries, and trend analysis
-- Built for non-technical business users who need data answers without SQL
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-| Domain | Technologies |
-|:--|:--|
-| **AI/ML Core** | LangChain · CrewAI · Agentic RAG · Multi-Agent Orchestration · Prompt Engineering · NLP · Computer Vision |
-| **LLMs** | Ollama · Llama 3.1 · LoRA/QLoRA Fine-tuning · Real-time Voice Pipelines (STT/TTS) · Vapi.ai |
-| **Vector & Search** | FAISS · ChromaDB · Qdrant · BGE-M3 Embeddings |
-| **ML Frameworks** | PyTorch · TensorFlow · Scikit-learn · Time-Series Forecasting · Statistical Modeling |
-| **Backend** | Python · FastAPI · SQLAlchemy · MySQL · SQLite · REST APIs |
-| **Frontend** | SvelteKit · Streamlit · TailwindCSS |
-| **Data** | Pandas · NumPy · Power BI · EDA · SQL |
-| **Infrastructure** | Docker · Nginx · Supervisor · N8n · Zapier · uv |
-| **Document AI** | Docling · Tika · Complex PDF Processing |
-
-</div>
-
----
-
-## 🎯 Impact Numbers
-
-<div align="center">
-
-| Metric | Result |
-|:--|:--|
-| Query Resolution Efficiency | **↑ 40%** (Islamic Banking Bot) |
-| Retrieval Accuracy | **93.4%** (Compliance Document Analyzer) |
-| Voice Response Latency | **< 200ms** end-to-end |
-| Document Query Latency | **< 1ms** (ChromaDB) |
-| Compliance Requirements Processed | **1,285+** |
-| Knowledge Domains Served | **4** (Islamic, Conventional, SOC, App) |
-| Third-Party API Dependencies | **0** — Fully local infrastructure |
-| Languages Supported | **4** (English, Urdu, Pashto, Punjabi) |
-
-</div>
-
----
-
-## 🎓 Background
-
-**B.S. Artificial Intelligence** — University of Haripur, 2024  
-**Data Analytics Digital Bootcamp** — Institute of Emerging Careers, 2025
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-attiqureshi56@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attiqureshi56@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Phone](https://img.shields.io/badge/Phone-+92--316--153--3723-10b981?style=for-the-badge&logo=phone&logoColor=white)]()
-
-</div>
+> ⚠️ **All projects are proprietary production systems at Askari Bank. No source code or architecture details are shared.**
 
 <br/>
 
 <div align="center">
 
+<!-- PROJECT CARD 1 — FLAGSHIP -->
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🏦 &nbsp; Askari Buddy — Enterprise Multi-Domain Banking Assistant
+
+<img src="https://img.shields.io/badge/STATUS-🚀_Launching_on_Bank's_Mobile_App-ff6b6b?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/TYPE-Multi--Agent_+_Voice_+_Multi--Lingual-6c5ce7?style=flat-square&labelColor=1a1a2e" />
+
+<br/><br/>
+
+The most comprehensive AI assistant in Pakistani banking — serving **4 knowledge domains** through a single intelligent interface with **voice capability** and **4 language support**.
+
+<br/>
+
+| | Capability |
+|:--:|:--|
+| 🧠 | **Multi-Domain Intelligence** — Automatic routing across Islamic Banking, Conventional Banking, Security Operations & App Support |
+| 🎙️ | **Voice-First Design** — Full speech pipeline with natural language input/output |
+| 🌍 | **Multi-Lingual** — English, Urdu, Pashto, Punjabi |
+| 🔒 | **100% Local** — Zero data ever leaves bank infrastructure |
+| ⚡ | **Real-Time Streaming** — Live responses with full conversation memory |
+| 👥 | **Enterprise-Grade Auth** — Role-based access with admin approval workflows & audit trails |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARDS ROW 1 -->
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🕌 &nbsp; Islamic Banking Agentic Bot
+
+<img src="https://img.shields.io/badge/PRODUCTION-✅_Live-10ac84?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Multi--Agent-Orchestration-6c5ce7?style=flat-square&labelColor=1a1a2e" />
+
+<br/><br/>
+
+Multi-agent system with intelligent orchestrator routing to **3 specialized sub-agents** for Shariah-compliant banking.
+
+<br/>
+
+**↑ 40%** query resolution efficiency  
+**100%** data privacy — zero API calls  
+**3** domain-specific sub-agents
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔒 &nbsp; InfoSec BOT — Document Analyzer
+
+<img src="https://img.shields.io/badge/PRODUCTION-✅_Live-10ac84?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Compliance-AI-ff6b6b?style=flat-square&labelColor=1a1a2e" />
+
+<br/><br/>
+
+Intelligent compliance analyzer processing **1,285+ regulatory requirements** with table-aware document extraction.
+
+<br/>
+
+**93.4%** retrieval accuracy  
+**< 1ms** query latency  
+**1,285+** requirements indexed
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARDS ROW 2 -->
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🎙️ &nbsp; Real-Time Voice Agent
+
+<img src="https://img.shields.io/badge/PRODUCTION-✅_Live-10ac84?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Voice-AI-0abde3?style=flat-square&labelColor=1a1a2e" />
+
+<br/><br/>
+
+End-to-end conversational voice pipeline with dynamic tone adjustment for natural banking interactions.
+
+<br/>
+
+**< 200ms** end-to-end latency  
+**Dynamic** prosody & tone control  
+**Hands-free** banking experience
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 &nbsp; DataChat — Generative BI
+
+<img src="https://img.shields.io/badge/PRODUCTION-✅_Live-10ac84?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Analytics-Natural_Language-ee5a24?style=flat-square&labelColor=1a1a2e" />
+
+<br/><br/>
+
+Natural-language analytics platform enabling non-technical users to query data and auto-generate insights.
+
+<br/>
+
+**Auto** chart & KPI generation  
+**CSV, Excel, PDF** support  
+**Zero SQL** knowledge required
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Impact Dashboard
+
+<div align="center">
+
+<br/>
+
 ```
-"In banking AI, there are no second chances with data privacy.
- Every system I build assumes the worst and delivers the best."
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    📈  40% ↑          🎯  93.4%          ⚡  <200ms       🔒  ZERO  ║
+║    Query              Retrieval          Voice            External   ║
+║    Resolution         Accuracy           Latency          API Calls  ║
+║                                                                      ║
+║    📚  1,285+         🌍  4              🧠  4            🏦  1     ║
+║    Compliance         Languages          Knowledge        Bank-Wide  ║
+║    Requirements       Supported          Domains          Deployment ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:6366f1,100:06b6d4&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🛠️ &nbsp; Tech Stack
+
+<div align="center">
+
+<br/>
+
+<!-- Core Languages & ML -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<br/><br/>
+
+<!-- AI Frameworks -->
+<img src="https://img.shields.io/badge/LangChain-🦜-1C3C3C?style=for-the-badge&labelColor=1C3C3C" />
+<img src="https://img.shields.io/badge/CrewAI-🤖-FF6B6B?style=for-the-badge&labelColor=FF6B6B" />
+<img src="https://img.shields.io/badge/Ollama-🦙-000000?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Llama_3.1-🔥-0467DF?style=for-the-badge&labelColor=0467DF" />
+<br/><br/>
+
+<!-- Vector DBs -->
+<img src="https://img.shields.io/badge/FAISS-6c5ce7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/ChromaDB-ff6b6b?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Qdrant-0abde3?style=for-the-badge&labelColor=1a1a2e" />
+<br/><br/>
+
+<!-- Backend & Frontend & Infra -->
+<img src="https://skillicons.dev/icons?i=fastapi,svelte,tailwind,docker,nginx,mysql&theme=dark" />
+<br/><br/>
+
+<!-- Voice & Doc Processing -->
+<img src="https://img.shields.io/badge/Whisper_STT-10ac84?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Edge_TTS-ee5a24?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Docling-6c5ce7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Vapi.ai-ff6b6b?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/N8n-0abde3?style=for-the-badge&labelColor=1a1a2e" />
+<br/><br/>
+
+<!-- Techniques -->
+<img src="https://img.shields.io/badge/Agentic_RAG-🧠-6c5ce7?style=for-the-badge&labelColor=16213e" />
+<img src="https://img.shields.io/badge/Multi--Agent-🤖-ff6b6b?style=for-the-badge&labelColor=16213e" />
+<img src="https://img.shields.io/badge/LoRA/QLoRA-🔧-0abde3?style=for-the-badge&labelColor=16213e" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-✍️-10ac84?style=for-the-badge&labelColor=16213e" />
+<img src="https://img.shields.io/badge/Voice_Pipelines-🎙️-ee5a24?style=for-the-badge&labelColor=16213e" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🎓 &nbsp; Background
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓_B.S._Artificial_Intelligence-University_of_Haripur_|_2024-6c5ce7?style=for-the-badge&labelColor=1a1a2e" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📜_Data_Analytics_Bootcamp-Institute_of_Emerging_Careers_|_2025-0abde3?style=for-the-badge&labelColor=1a1a2e" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🐍 &nbsp; Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=attaurrehman&custom_title=Atta's%20Contribution%20Graph&bg_color=0d1117&color=6c5ce7&line=ff6b6b&point=0abde3&area_color=6c5ce7&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📬 &nbsp; Let's Connect
+
+<div align="center">
+
+<br/>
+
+<a href="mailto:attiqureshi56@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-attiqureshi56@gmail.com-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0abde3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
+</a>
+&nbsp;&nbsp;
+<a href="tel:+923161533723">
+<img src="https://img.shields.io/badge/WhatsApp-+92--316--153--3723-10ac84?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=attaurrehman&label=Profile%20Views&color=6c5ce7&style=for-the-badge&labelColor=1a1a2e" />
+
+<br/><br/>
+
+```
+⚡ "I build AI that banks trust with their data — and their customers."
+```
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🔥 ANIMATED FOOTER                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,25:ee5a24,50:6c5ce7,75:0abde3,100:10ac84&height=150&section=footer&animation=twinkling" width="100%" />
